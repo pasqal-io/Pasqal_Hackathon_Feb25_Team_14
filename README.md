@@ -44,8 +44,23 @@ jupyter notebook MDP_Planning_toy_graph.ipynb
 ```
 ## Usage of the Project
 - `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy modle
-## References 
+## References
 
+[1] Zhang et al., J. Catal., 2020, DOI: 10.1016/j.jcat.2020.02.004.
+
+[2] Sun et al., Appl. Catal. B, 2019, DOI: 10.1016/j.apcatb.2019.04.017.
+
+[3] Studt et al., Nature Chem., 2015, DOI: 10.1038/nchem.2205.
+
+[4] Kattel et al., Science, 2017, DOI: 10.1126/science.aal3443.
+
+[5] Sabatier and Senderens, Comptes Rendus, 1902.
+
+[6] Xu et al., J. Catal., 1989, DOI: 10.1016/0021-9517(89)90246-X.
+
+[7] OSTI Report, "Theoretical assessments of CO2 activation and hydrogenation pathways", U.S. Department of Energy, Office of Scientific and Technical Information, 2017, DOI: 10.2172/1406902.
+
+[8] Verma A. M., Chaturvedi S., Paul S., Nandi S., Sheshanarayana R., Santhosh K., et al. Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation. ChemRxiv. 2025. DOI: 10.26434/chemrxiv-2025-pnh6l.
 ----------------------
 
 ## Acknowledgement
