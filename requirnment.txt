@@ -1,0 +1,7 @@
+numpy
+networkx
+matplotlib
+scipy
+pandas
+pulser
+pulser-simulation
