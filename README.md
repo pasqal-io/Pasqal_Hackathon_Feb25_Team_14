@@ -21,8 +21,8 @@ Objectives
 # Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/pasqal-io/Pasqal_Hackathon_Feb25_Team_15.git
-cd Pasqal_Hackathon_Feb25_Team_15
+git clone https://github.com/pasqal-io/Pasqal_Hackathon_Feb25_Team_14.git
+cd Pasqal_Hackathon_Feb25_Team_14
 
 # Create and activate a virtual environment
 python3 -m venv venv
@@ -31,12 +31,19 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install notebook
 
-# Run the notebook containing the MVE 
+# Run the notebook containing the Hyderogenation 
 cd test
-jupyter notebook Hybrid_Coral_Reef_Bleaching.ipynb
+jupyter notebook CO2_Hydrogenation.ipynb
+
+# For Machine learning approach
+cd test
+jupyter notebook CO2_Hydrogenation.ipynb
+jupyter notebook GCN.ipynb
+jupyter notebook MDP_Planning_graph_1.ipynb
+jupyter notebook MDP_Planning_toy_graph.ipynb
 ```
 ## Usage of the Project
-- `MRI.ipynb` - Contains notebook for Training 
+- `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy modle
 ## References 
 
 ----------------------
