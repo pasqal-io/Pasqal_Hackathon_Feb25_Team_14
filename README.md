@@ -18,41 +18,23 @@ Objectives
 
 
 
-## Setup Instructions
-
-#### 1. **Clone the Repository**
-
-   Open your terminal or command prompt and run the following command to clone the repository:
-
-   ```bash
-   git clone https://github.com/Jayesh1211/FQML.git
-```
-Navigate into the project directory:
+# Setup Instructions
 ```bash
-cd FQML
-```
-#### 2. **Create a Python Virtual Environment**
-Create a virtual environment to manage dependencies:
+# Clone the repository
+git clone https://github.com/pasqal-io/Pasqal_Hackathon_Feb25_Team_15.git
+cd Pasqal_Hackathon_Feb25_Team_15
 
-```bash
-python -m venv venv
-```
-#### 3. **Activate the Virtual Environment**
-On Windows:
-```bash
-venv\Scripts\activate
-```
-On macOS and Linux:
-```bash
-source venv/bin/activate
-```
-#### 4. **Install Dependencies**
-Install the required dependencies listed in the ['requirements.txt'](requirements.txt) file:
+# Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-#### 5. **Download the Dataset**
-Download the 
-Or 
-Directly use a processed data file from the directory.
+# Install dependencies
+pip install notebook
+
+# Run the notebook containing the MVE 
+cd test
+jupyter notebook Hybrid_Coral_Reef_Bleaching.ipynb
+```
 ## Usage of the Project
 - `MRI.ipynb` - Contains notebook for Training 
 ## References 
