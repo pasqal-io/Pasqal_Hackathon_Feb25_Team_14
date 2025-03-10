@@ -31,13 +31,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install notebook
 
-# Run the notebook containing the Hyderogenation 
+# Run the notebook containing the Hydrogenation 
 cd test
 jupyter notebook CO2_Hydrogenation.ipynb
 
-# For Machine learning approach
+# For Machine learning test case
 cd test
-jupyter notebook CO2_Hydrogenation.ipynb
 jupyter notebook GCN.ipynb
 jupyter notebook MDP_Planning_graph_1.ipynb
 jupyter notebook MDP_Planning_toy_graph.ipynb
