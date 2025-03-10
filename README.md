@@ -48,8 +48,15 @@ jupyter notebook MDP_Planning_toy_graph.ipynb
 - **Dimitrios Kranas** 
 - **Jayesh Hire** 
   
-## Usage of the Project
-- `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy model
+## Usage
+
+Our project includes several Jupyter notebooks that demonstrate different aspects of our approach:
+
+* `CO2_Hydrogenation.ipynb` - Main notebook demonstrating quantum optimization for CO₂ hydrogenation
+* `GCN.ipynb` - Graph Convolutional Network implementation for catalyst property prediction
+* `MDP_Planning_graph_1.ipynb` - Markov Decision Process planning for reaction pathway optimization
+* `MDP_Planning_toy_graph.ipynb` - Toy model implementation of MDP planning
+* `TOY1.ipynb`, `TOY2.ipynb` - Additional notebooks for testing toy models
 ## References
 
 [1] Zhang et al., J. Catal., 2020, DOI: 10.1016/j.jcat.2020.02.004.
