@@ -14,7 +14,7 @@
 
 ## Project Description 
 
-Objectives
+This project leverages quantum computing and graph-based optimization to revolutionize CO₂ hydrogenation, a critical process for carbon capture and sustainable fuel production. By converting CO₂ into valuable chemicals like methanol and methane, it directly supports global climate action (SDG 13), clean energy solutions (SDG 7), and circular economy practices (SDG 12). Catalysts such as Cu/ZnO/Al₂O₃, Ni-based, and precious metals (Ru, Pd) drive this transformation by enhancing reaction efficiency, stabilizing intermediates, and suppressing undesired byproducts. By encoding the process as a Max-Cut problem, quantum algorithms can uncover optimal catalytic pathways, minimize energy barriers, and accelerate breakthroughs in green chemistry, paving the way for a cleaner, more sustainable future.
 
 
 
