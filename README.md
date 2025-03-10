@@ -60,7 +60,6 @@ jupyter notebook MDP_Planning_toy_graph.ipynb
 
 [7] OSTI Report, "Theoretical assessments of CO2 activation and hydrogenation pathways", U.S. Department of Energy, Office of Scientific and Technical Information, 2017, DOI: 10.2172/1406902.
 
-[8] Verma A. M., Chaturvedi S., Paul S., Nandi S., Sheshanarayana R., Santhosh K., et al. Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation. ChemRxiv. 2025. DOI: 10.26434/chemrxiv-2025-pnh6l.
 ----------------------
 
 ## Acknowledgement
