@@ -41,6 +41,13 @@ jupyter notebook GCN.ipynb
 jupyter notebook MDP_Planning_graph_1.ipynb
 jupyter notebook MDP_Planning_toy_graph.ipynb
 ```
+## Team Members
+
+- **Apurva Dhingra** 
+- **Abdullah Kazi** 
+- **Dimitrios Kranas** 
+- **Jayesh Hire** 
+  
 ## Usage of the Project
 - `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy model
 ## References
