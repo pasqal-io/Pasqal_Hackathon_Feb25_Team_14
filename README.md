@@ -43,7 +43,7 @@ jupyter notebook MDP_Planning_graph_1.ipynb
 jupyter notebook MDP_Planning_toy_graph.ipynb
 ```
 ## Usage of the Project
-- `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy modle
+- `TOY1.ipynb`, `TOY2.ipynb`  - Contains notebook for testing toy model
 ## References
 
 [1] Zhang et al., J. Catal., 2020, DOI: 10.1016/j.jcat.2020.02.004.
